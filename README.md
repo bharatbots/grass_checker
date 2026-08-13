@@ -2,6 +2,8 @@
 
 A small, browser-based tool for checking a wallet's Grass airdrop allocation across epochs. It shows adjusted and original token totals, tier details, and possible sybil flags.
 
+**[Open the live checker](https://cathisses.github.io/grass_checker/)**
+
 ## Run locally
 
 No build step or dependencies are required. Clone the repository and serve the directory with any static web server:
